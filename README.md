@@ -6,5 +6,6 @@ In this project, I applied convolutional neural networks to the binary classific
 
 The dataset is obtained from [www.kaggle.com](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia). For more in-depth information about my project please refer to the links below.
 
-1. [Proposal](https://github.com/Meralbalik/Capstone-Project-2/blob/master/Capstone%20Project%202%20Proposal.pdf)
-2. [Code](https://github.com/Meralbalik/Capstone-Project-2/blob/master/CapstoneProject2.ipynb)
+1. [Project Proposal](https://github.com/Meralbalik/Capstone-Project-2/blob/master/Capstone%20Project%202%20Proposal.pdf)
+2. [Project Code](https://github.com/Meralbalik/Capstone-Project-2/blob/master/CapstoneProject2.ipynb)
+3. [Milestone Report](https://github.com/Meralbalik/Capstone-Project-2/blob/master/Milestone%20Report%202.pdf)
