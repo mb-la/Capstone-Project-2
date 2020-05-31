@@ -9,4 +9,4 @@ The dataset is obtained from [www.kaggle.com](https://www.kaggle.com/paultimothy
 1. [Project Proposal](https://github.com/Meralbalik/Capstone-Project-2/blob/master/Capstone%20Project%202%20Proposal.pdf)
 2. [Project Code](https://github.com/Meralbalik/Capstone-Project-2/blob/master/CapstoneProject2.ipynb)
 3. [Milestone Report](https://github.com/Meralbalik/Capstone-Project-2/blob/master/Milestone%20Report%202.pdf)
-4. [Project Presentation]()
+4. [Project Presentation](https://github.com/Meralbalik/Capstone-Project-2/blob/master/CapstoneProject2Presentaion.pdf)
