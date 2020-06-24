@@ -7,8 +7,9 @@ In this project, I applied CNN which was built from scratch and transfer learnin
 The dataset is obtained from [www.kaggle.com](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia). For more in-depth information about my project please refer to the links below.
 
 1. [Project Reports](https://github.com/Meralbalik/Capstone-Project-2/blob/master/Capstone%20Project%202%20Proposal.pdf)
-2. [Baseline CNN Model](https://github.com/Meralbalik/Capstone-Project-2/blob/master/CapstoneProject2.ipynb)
-2. [Baseline CNN Model](https://github.com/Meralbalik/Capstone-Project-2/blob/master/CapstoneProject2.ipynb)
-2. [Baseline CNN Model](https://github.com/Meralbalik/Capstone-Project-2/blob/master/CapstoneProject2.ipynb)
-3. [Milestone Report](https://github.com/Meralbalik/Capstone-Project-2/blob/master/Milestone%20Report%202.pdf)
-4. [Project Presentation](https://github.com/Meralbalik/Capstone-Project-2/blob/master/CapstoneProject2Presentaion.pdf)
+2. [CNN with original images](https://github.com/Meralbalik/Capstone-Project-2/blob/master/CNN_with_original_images.ipynb)
+3. [VGG16 with original images](https://github.com/Meralbalik/Capstone-Project-2/blob/master/VGG16_with_original_images.ipynb)
+4. [DCGAN to generate images](https://github.com/Meralbalik/Capstone-Project-2/blob/master/DCGAN_ChestXRay_Pneumonia.ipynb)
+5. [CNN with generated images](https://github.com/Meralbalik/Capstone-Project-2/blob/master/CNN_with_generated_images.ipynb)
+6. [VGG16 with generated images](https://github.com/Meralbalik/Capstone-Project-2/blob/master/VGG16_with_generated_images.ipynb)
+7. [Project Presentation](https://github.com/Meralbalik/Capstone-Project-2/blob/master/Reports/CapstoneProject2Presentation.pdf)
